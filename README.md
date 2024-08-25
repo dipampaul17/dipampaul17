@@ -1,12 +1,30 @@
-### Namaste, I'm [Dipam](https://thisisdipam.github.io/)! 👋
+# dipam paul
 
+pm | vc | ai tinkerer
 
-- 🔭 I’m currently working on areas of Machine Intelligence, Computational Neuroscience, and applying Deep Learning to a variety of Radiology and Medical-Imaging problems.
-- 🌱 I’m currently learning - NoSQL, AWS instancing and Python (this never ends 😁).
-- 👯 I’m looking to collaborate on - Any Radiology based problem encompassing Medical Imaging and application of AI. 
-- 🤔 I’m looking for help with - Classification/Regression tasks, Segmentation tasks, Masking tasks, Optimization problems, Building architecture tasks, and maybe a little bit of frontend too!
-- 💬 Ask me about - ML, DL, and tinkering with Neural Networks over a cup of virtual coffee?
-- 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/dipam-paul-36672b15b/), [Twitter Profile](https://twitter.com/account/access).
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I'm the biggest Feynman fan(atic) you'll ever meet!
+## about me
 
+bridging the gap between tech and strategy at carnegie mellon university. 
+currently diving deep into software product management and ai governance.
+
+## what i'm up to
+
+- interning at servicenow, crafting ai governance solutions
+- exploring the intersection of vc and ai at bosch global
+- building data-driven products that solve real problems
+
+## tech stack
+
+python | sql | machine learning | product analytics | agile methodologies
+
+## featured work
+
+- [ai governance workflow] - driving compliance and reducing AI legal risk
+- [vc evaluation framework] - leveraging llms for smarter investment decisions
+- [healthcare data optimization] - boosting efficiency in large-scale data processing
+
+## let's connect
+
+[linkedin](https://www.linkedin.com/in/dipamp) | [email](mailto:dipam@cmu.edu)
+
+always open to collaborate on innovative projects or discuss the latest in tech and product strategy.
