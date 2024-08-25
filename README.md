@@ -5,7 +5,7 @@ pm | vc | ai tinkerer
 ## about me
 
 bridging the gap between tech and strategy at carnegie mellon university. 
-currently diving deep into software product management and ai governance.
+currently interested in ai agentic architectures and ai governance.
 
 ## what i'm up to
 
