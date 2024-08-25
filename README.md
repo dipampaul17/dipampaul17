@@ -15,7 +15,7 @@ currently diving deep into software product management and ai governance.
 
 ## tech stack
 
-python | sql | machine learning | product analytics | agile methodologies
+python | sql | js frameworks (wip) | product / funnel analytics
 
 ## featured work
 
