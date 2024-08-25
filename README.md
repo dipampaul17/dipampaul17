@@ -1,4 +1,4 @@
-# dipam paul
+# dipam p.
 
 pm | vc | ai tinkerer
 
